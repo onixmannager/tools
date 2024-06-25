@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analisis De Mercado</title>
+     <h3>Las 20 mejores webs para analisis de mercado <h3> 
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 20px 0;
+            border-bottom: 2px solid #444;
+        }
+        h1 {
+            color: #fff;
+            font-size: 2.5em;
+            margin: 0;
+        }
+        .content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h2 {
+            color: #fff;
+            border-bottom: 2px solid #444;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        .tool {
+            margin-bottom: 20px;
+            background: #111;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+        }
+        .tool h3 {
+            margin: 10px 0 5px 0;
+            font-size: 1.2em;
+        }
+        .description, .features {
+            margin: 5px 0;
+            font-size: 1em;
+        }
+        .description strong, .features strong {
+            color: #ffc107;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            border-top: 2px solid #444;
+            margin-top: 40px;
+        }
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            h1 {
+                font-size: 2em;
+            }
+            h2 {
+                font-size: 1.5em;
+            }
+            .tool h3 {
+                font-size: 1.1em;
+            }
+            .description, .features {
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Onix Manager</h1>
+    </header>
+    <div class="content">
+        <h2>Top 20 Herramientas para Análisis de Mercado Cripto</h2>
+        <div class="tool">
+            <h3><a href="https://coinmarketcap.com" target="_blank">CoinMarketCap</a></h3>
+            <p class="description"><strong>Descripción:</strong> Plataforma líder para obtener información sobre precios, capitalización de mercado y volumen de comercio de criptomonedas.</p>
+            <p class="features"><strong>Características:</strong> Precios en tiempo real, datos históricos, capitalización de mercado, noticias y análisis.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://coingecko.com" target="_blank">CoinGecko</a></h3>
+            <p class="description"><strong>Descripción:</strong> Proporciona datos completos sobre precios, capitalización de mercado y volumen de comercio, junto con estadísticas de la comunidad y análisis.</p>
+            <p class="features"><strong>Características:</strong> Precios en tiempo real, datos de mercado, estadísticas de comunidad, noticias y eventos.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://tradingview.com" target="_blank">TradingView</a></h3>
+            <p class="description"><strong>Descripción:</strong> Plataforma de gráficos y análisis técnico para traders de criptomonedas.</p>
+            <p class="features"><strong>Características:</strong> Herramientas avanzadas de gráficos, indicadores técnicos, scripts personalizados, comunidad de traders, noticias y análisis.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://cryptocompare.com" target="_blank">CryptoCompare</a></h3>
+            <p class="description"><strong>Descripción:</strong> Proveedor de datos y análisis de criptomonedas.</p>
+            <p class="features"><strong>Características:</strong> Datos en tiempo real, gráficos de precios, análisis de mercado, comparación de criptoactivos.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://messari.io" target="_blank">Messari</a></h3>
+            <p class="description"><strong>Descripción:</strong> Plataforma de investigación y análisis de criptomonedas y DeFi.</p>
+            <p class="features"><strong>Características:</strong> Informes detallados, herramientas de screener, datos de mercado y métricas on-chain.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://glassnode.com" target="_blank">Glassnode</a></h3>
+            <p class="description"><strong>Descripción:</strong> Plataforma de análisis on-chain y métricas de mercado para criptoactivos.</p>
+            <p class="features"><strong>Características:</strong> Métricas avanzadas de blockchain, informes de mercado, datos históricos y en tiempo real.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://santiment.net" target="_blank">Santiment</a></h3>
+            <p class="description"><strong>Descripción:</strong> Ofrece datos de mercado y análisis de criptomonedas, con un enfoque en el análisis de datos on-chain y sociales.</p>
+            <p class="features"><strong>Características:</strong> Análisis on-chain, datos de redes sociales, indicadores de mercado, herramientas de gráficos, informes y análisis.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://cryptoslate.com" target="_blank">CryptoSlate</a></h3>
+            <p class="description"><strong>Descripción:</strong> Proporciona noticias de criptomonedas, análisis de mercado y datos de precios.</p>
+            <p class="features"><strong>Características:</strong> Noticias, análisis de mercado, listados de criptomonedas y proyectos blockchain.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://coindesk.com" target="_blank">CoinDesk</a></h3>
+            <p class="description"><strong>Descripción:</strong> Sitio de noticias líder en criptomonedas y blockchain.</p>
+            <p class="features"><strong>Características:</strong> Noticias actualizadas, análisis de mercado, reportajes y eventos de la industria.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://cointelegraph.com" target="_blank">CoinTelegraph</a></h3>
+            <p class="description"><strong>Descripción:</strong> Proporciona noticias y análisis sobre criptomonedas, blockchain y tecnología financiera.</p>
+            <p class="features"><strong>Características:</strong> Noticias, análisis de mercado, artículos de opinión y reportajes especiales.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://nomics.com" target="_blank">Nomics</a></h3>
+            <p class="description"><strong>Descripción:</strong> Ofrece datos de mercado de criptomonedas, gráficos y análisis.</p>
+            <p class="features"><strong>Características:</strong> Datos de precios en tiempo real, gráficos de precios, análisis de mercado, comparaciones entre criptomonedas.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://cryptopanic.com" target="_blank">CryptoPanic</a></h3>
+            <p class="description"><strong>Descripción:</strong> Un agregador de noticias y análisis de criptomonedas.</p>
+            <p class="features"><strong>Características:</strong> Noticias, análisis de mercado, integración con redes sociales, alertas de precios.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://intotheblock.com" target="_blank">IntoTheBlock</a></h3>
+            <p class="description"><strong>Descripción:</strong> Proporciona análisis basado en datos para el mercado de criptomonedas.</p>
+            <p class="features"><strong>Características:</strong> Datos on-chain, análisis de sentimiento, indicadores de mercado, herramientas de gráficos.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://coincheckup.com" target="_blank">CoinCheckup</a></h3>
+            <p class="description"><strong>Descripción:</strong> Ofrece análisis de mercado, gráficos y datos detallados sobre criptomonedas.</p>
+            <p class="features"><strong>Características:</strong> Precios en tiempo real, datos de mercado, gráficos de precios, análisis detallado.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://lunarcrush.com" target="_blank">LunarCrush</a></h3>
+            <p class="description"><strong>Descripción:</strong> Análisis de criptomonedas basado en datos sociales y sentimentales.</p>
+            <p class="features"><strong>Características:</strong> Análisis de sentimiento, datos sociales, indicadores de mercado, herramientas de gráficos.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://livecoinwatch.com" target="_blank">Live Coin Watch</a></h3>
+            <p class="description"><strong>Descripción:</strong> Proporciona datos de precios, volumen de comercio y capitalización de mercado en tiempo real.</p>
+            <p class="features"><strong>Características:</strong> Precios en tiempo real, datos de mercado, gráficos de precios, análisis de mercado.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://theblockcrypto.com" target="_blank">The Block</a></h3>
+            <p class="description"><strong>Descripción:</strong> Proporciona análisis, noticias y datos sobre blockchain y criptomonedas.</p>
+            <p class="features"><strong>Características:</strong> Noticias exclusivas, investigaciones en profundidad, análisis de mercado.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://skew.com" target="_blank">Skew</a></h3>
+            <p class="description"><strong>Descripción:</strong> Análisis de datos y gráficos para derivados de criptomonedas.</p>
+            <p class="features"><strong>Características:</strong> Datos de mercado de derivados, gráficos de precios, análisis de volatilidad, informes de mercado.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://tokenmetrics.com" target="_blank">Token Metrics</a></h3>
+            <p class="description"><strong>Descripción:</strong> Proporciona análisis y calificaciones de criptomonedas basados en inteligencia artificial.</p>
+            <p class="features"><strong>Características:</strong> Análisis basado en IA, calificaciones de criptomonedas, herramientas de gráficos, informes de mercado.</p>
+        </div>
+        <div class="tool">
+            <h3><a href="https://coinmetrics.io" target="_blank">Coin Metrics</a></h3>
+            <p class="description"><strong>Descripción:</strong> Proporciona datos de mercado y análisis para inversores institucionales en criptomonedas.</p>
+            <p class="features"><strong>Características:</strong> Datos on-chain, análisis de mercado, herramientas de gráficos, informes detallados.</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Onix Manager. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
